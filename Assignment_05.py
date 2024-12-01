@@ -1,7 +1,7 @@
 ###  Assignment No 5 ###
 
 """Assignment Title :  Implement regular expression function to find URL, IP address, Date,
-PAN number in textual data using python libraries"""
+PAN number in textual data using python libraries."""
 
 
 import spacy
